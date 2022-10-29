@@ -3,15 +3,22 @@ body {
 }
 
 h1 {
-    size: 100px;
+    size: 150px;
     text-align: center;
+}
+
+h2 {
+    size: 100px;
 }
 
 p {
     text-align: center;
 }
 
-header-image {
+.header-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     height: auto;
-    width: 10px;
+    width: 800px;
 }
