@@ -8,7 +8,7 @@ h1 {
 }
 
 h2 {
-    size: 100px;
+    size: 75px;
 }
 
 p {
@@ -21,4 +21,8 @@ p {
     margin-right: auto;
     height: auto;
     width: 800px;
+}
+
+h2.about-recipe {
+    text-align: center;
 }
